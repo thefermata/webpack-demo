@@ -5,4 +5,5 @@ export default function cube(x) {
 
 export function aaa(a) {
 return a;
+
 }
